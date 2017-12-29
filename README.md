@@ -10,6 +10,8 @@ Whitepaper PDFs
 
 The Knowledge Token Sale starts on January 15, 2018 and it ends April 8th at 12pm. For more information visit [knowledge.io](https://knowledge.io) or join the [Knowledge Token Channel on Telegram](https://t.me/knowledgeio) where we'll be happy to discuss any questions you may have about our platform.
 
+You can find our Ethereum Smart Contracts at [knowledge/knowledge-contracts](https://github.com/knowledge/knowledge-contracts).
+
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
